@@ -76,10 +76,6 @@ button{
     }
     button {
         font-size: 16px;
-        width: 22%;
-    }
-    .manish {
-        font-size: 10px;
     }
 }
 
@@ -89,6 +85,5 @@ button{
     }
     button {
         font-size: 14px;
-        width: 23%;
     }
 }
